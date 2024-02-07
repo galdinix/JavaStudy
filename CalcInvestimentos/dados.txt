@@ -1,0 +1,7 @@
+rendimento no CDB: R$123
+
+rendimento no LCI: R$127
+
+rendimento no LCA: R$134
+
+rendimento na poupança: R$62
